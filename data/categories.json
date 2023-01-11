@@ -21,10 +21,14 @@
     },
     {
       "id": "06",
-      "name": "Node.js"
+      "name": "Laravel"
     },
     {
       "id": "07",
+      "name": "Node.js"
+    },
+    {
+      "id": "08",
       "name": "All Courses"
     }
   ]

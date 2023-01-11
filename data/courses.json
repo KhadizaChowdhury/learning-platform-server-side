@@ -1,0 +1,108 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5},
+      "price": 800,
+      "title": "HTML is easy to learn - You will enjoy it!",
+      "instructor": {
+        "name": "Khadiza"
+      },
+      "thumbnail_url": "https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png",
+      "image_url": "https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png",
+      "details": "HTML stands for Hypertext Markup Language. It is used to design the front-end portion of web pages using a markup language. HTML is the combination of Hypertext and Markup language. Hypertext defines the link between the web pages. The markup language is used to define the text documentation within the tag which defines the structure of web pages."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "category_id": "02",
+      "rating": { "number": 4.3},
+      "price": 1400,
+      "title": "Introduction to CSS",
+      "instructor": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45"},
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+      "details": "A beginner level course introducing the fundamentals of cascading style sheets (CSS), including syntax, selectors, styling, and the box model. A more advanced course focusing on more complex CSS layouts, such as responsive design, grid systems, and flexbox."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "02",
+      "rating": { "number": 4.5},
+      "price": 2000,
+      "title": "CSS Animations and Transitions",
+      "instructor": {
+        "name": "system"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+      "details": "A course focusing on creating dynamic and visually appealing animations and transitions with CSS. We also offer one-on-one tutoring, so students can get the most out of their learning experience. Our teachers are experienced developers who are passionate about helping others learn. We believe that anyone can learn to code, and we are here to help make that happen. So come join us and see what we have to offer!"
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "03",
+      "rating": { "number": 4.8},
+      "price": 4000,
+      "title": "React basic in just 1 hour",
+      "instructor": {
+        "name": "Khadiza"
+      },
+      "thumbnail_url": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+      "image_url": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+      "details": "This short course will cover basic and core concepts that you need to know to get up and running with ReactJS. React JS is a Javascript library for building user interfaces. Its flexible, fast, easy to learn and fun to work with. ReactJS is designed to make the process of building modular, reusable user interface components simple and intuitive. React was developed at Facebook and focuses on the View aspect of MVC in web applications. React was built for the purpose of developing applications that are large in nature and have to deal with time changing data."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "04",
+      "rating": { "number": 4.8},
+      "price": 4000,
+      "title": "JavaScript Dynamic Web Pages AJAX 30 Projects APIs JSON",
+      "instructor": {
+        "name": "Khadiza"
+      },
+      "thumbnail_url": "https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/AJAX_logo.png",
+      "image_url": "https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/AJAX_logo.png",
+      "details": "One of the MOST common questions I get is using AJAX making requests to the server and returning JSON data outputting it to a web Page.  Here it is THE MOST asked for course content with over 30 Projects to build your skills with AJAX and JavaScript DOM manipulation.  This is a unique course loaded with modern JavaScript content - coding examples and challenges in almost every lesson!!!  Also includes a 100+ Page PDF AJAX JavaScript Guide. Perfect to do over 30 days or faster.  Fun unique projects that will AMAZE you and help you learn updating skills with AJAX.   Explore how YOU can create Dynamic and Interactive Web content with data loaded from an API."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "05",
+      "rating": { "number": 4.5},
+      "price": 4880,
+      "title": "Introduction to PHP",
+      "instructor": {
+        "name": "Khadiza"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "This course covers the basics of PHP, including the syntax, variables, functions, and more. The course itself is designed as an introductory course to the basics of web development and is tailored to the individual's needs. It covers the basics of HTML, CSS, and JavaScript, as well as the fundamentals of building a website. I also provide tips and tricks to help the students learn the concepts faster. My goal is to help them understand the basics so they can move on to more advanced topics."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "price": 9800,
+      "title": "Let's Learn Laravel: A Guided Path For Beginners",
+      "instructor": {
+        "name": "system"
+      },
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png",
+      "details": "Laravel is an amazing framework, but because it is so feature-complete I've noticed that a lot of guides and tutorials get overly ambitious and introduce 10 or 20 new concepts in a single lesson which is frustrating when you're a beginner and you're trying to actually understand why you're doing what you're doing. I've also noticed a lot of tutorials assume you've already used lots of other web application frameworks before Laravel, and so they don't actually explain any of the organizational or conceptual pieces of the puzzle. This course is different because I assume that Laravel is the first web application framework you've ever attempted to learn, and so we move at a pace where you can actually absorb the big-picture concepts that exist in all frameworks; not just Laravel."
+    },
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "category_id": "07",
+      "rating": { "number": 4.5
+      },
+      "price": 8000,
+      "title": "NodeJS - The Complete Guide",
+      "instructor": {
+        "name": null,
+        "published_date": "2022-08-30 15:00:04"
+      },
+      "thumbnail_url": "https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png",
+      "image_url": "https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png",
+      "details": "Work with one of the most in-demand web development programming languages. Learn the basics as well as advanced concepts of NodeJS in great detail. Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more. Get a thorough introduction to DenoJS.      Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs"
+    }
+  ]
