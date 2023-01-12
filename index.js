@@ -25,7 +25,7 @@ app.get('/category/:id', (req, res) => {
     if(!id){
         res.send("Sorry! Not Found")
     }
-    else if (id === '07') {
+    else if (id === '08') {
         res.send(courses)
     }
     else {
