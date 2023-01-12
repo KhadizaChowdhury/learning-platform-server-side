@@ -52,7 +52,7 @@
       "details": "This short course will cover basic and core concepts that you need to know to get up and running with ReactJS. React JS is a Javascript library for building user interfaces. Its flexible, fast, easy to learn and fun to work with. ReactJS is designed to make the process of building modular, reusable user interface components simple and intuitive. React was developed at Facebook and focuses on the View aspect of MVC in web applications. React was built for the purpose of developing applications that are large in nature and have to deal with time changing data."
     },
     {
-      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "_id": "f69a695f037cd9484cecaea37ca71016",
       "category_id": "04",
       "rating": { "number": 4.8},
       "price": 4000,
